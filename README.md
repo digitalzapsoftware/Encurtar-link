@@ -1,9 +1,9 @@
 
 <h1 align='center'>Encurtador de Link</h1>
 
-<img width='500' src ='./print1.png'>
-<img width='500' src ='./print2.png'>
-<img width='500' src ='./print3.png'>
+<img src ='./print1.png'>
+<img src ='./print2.png'>
+<img src ='./print3.png'>
 
 <br/>
 
