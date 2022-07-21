@@ -10,7 +10,7 @@
 <h2 align='center'>Descrição</h2> 
 
 **Encurtador de link** como o próprio nome diz, com ele é possivel está encurtando aqueles links grandes para um link mais pequeno!
-Este projeto foi feito com **REACT** ultilizando uma **API** da **bitly** para está encurtando os links que o usuário desejar .
+Este projeto foi feito com **REACT** ultilizando uma **API** da **bitly** para está encurtando os links que o usuário desejar.
 
 <br/>
 
